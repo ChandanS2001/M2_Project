@@ -1,0 +1,16 @@
+The main objective of this project is to provide an advanced home security system
+using microcontroller ATmega 328P, GSM module and chloroform gas. Home security is
+very important nowadays as the possibilities of theft are increasing day by day. There has
+been much research done on various types of Home Security systems like Sensor based
+Home security System, Face recognition, Finger print, Palm print and keypad activation
+for authentication and so on. Many technologies have been used to capture an
+unauthorized movement using CCTV cameras and motion cameras, but they were failing
+in stopping the theft from being happening. Overcoming these drawbacks, this project is
+used to catch the thief from escaping away. This system consists of ATmega 328P
+microcontroller, fingerprint sensor, DC gear motor, IR sensor, DC servo motor, buzzer,
+chloroform sprayer and GSM module. Whenever the IR sensor senses the thief entering
+into the room, the security system locks all the doors and windows. At the same time
+chloroform sprayer releases its gas inside the room and makes the thief goes into
+unconscious. Then the alarm present in the security system alert its surrounding peoples
+and also GSM module is used to communicate with the owner of the house and police
+station.
